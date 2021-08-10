@@ -1,7 +1,10 @@
-- Olá Pessoal!
-- SIM SO NOOB NESSE KARALHO E FODSSE
-- Linguagens que sei ao menos printar olá: Python, C++, C#, Java, Ruby, JavaScript
-- Linguagem favorita = Pythozinho mentira C# to aprendendo ainda sapoha
+- Olá Pessoal!, Sou Kramatsu.
+
+- Não Sou Tão Experiente Então é Isso!
+
+- Linguagens que sei ao menos printar olá: Python, C++, C#, Java, Ruby, JavaScript, Lua, Html e Css.
+
+- Linguagem Favorita = Linguagem Da Lua Apesar De Ainda Eu Estar Apredendo.
 
 <!---
 Kramatsu/Kramatsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
